@@ -1,2 +1,5 @@
 # Camera IDs remapping
 vendor_internal_prop(vendor_camera_remapid_prop)
+
+# Camera skip failed IDs
+vendor_internal_prop(vendor_camera_skip_failed_ids_prop)
